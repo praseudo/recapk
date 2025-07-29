@@ -37,6 +37,10 @@ Example .txt file should look like:
 
 > and so on ...
 
+## Screenshot:
+
+<img width="2570" height="1702" alt="Screenshot 2025-07-29 at 22 58 12" src="https://github.com/user-attachments/assets/9ef832c9-d166-4d11-8a11-a4b6ac7a80c4" />
+
 
 Make sure to add this tool in your android pentesting recon phase. You won't regret it. 
 
